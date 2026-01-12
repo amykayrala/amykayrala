@@ -1,8 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Amy</h1>
 <h3 align="center">A software engineering student from Ottawa</h3>
 
-- 🏫 I’m currently **a second year student at UOttawa**
+- 🏫 I’m currently **a third year student at UOttawa**
 
 - 🌱 I want to learn **C and more about front-end!!**
 
